@@ -1,0 +1,15 @@
+#idea
+.idea
+
+#class
+*.class
+
+#package file
+*.war
+*.jar
+*.rar
+*.zip
+
+
+#iml
+*.iml
