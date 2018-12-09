@@ -3,6 +3,7 @@ public class Demo {
         System.out.println("Good morning");
 
         System.out.println("git");
-        sout...
+
+        System.out.println("you chong tu");
     }
 }
